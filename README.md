@@ -8,9 +8,10 @@ Wordle is a simple iOS game where players guess a word by selecting letters from
 - **Feedback:** Feedback is provided on each guess, indicating correct letters and their positions.
 - **Customizable:** The game can be easily customized with different words and configurations.
 
-## Screenshots
+## Working Sample
 
-[Include screenshots of your app here]
+<img src="simulator.jpg" alt="Wordle Screenshot" width="400" height="800">
+
 
 ## Installation
 
@@ -26,3 +27,6 @@ To run this project on your local machine, follow these steps:
 - Tap on the letters on the keyboard to make guesses.
 - Receive feedback on your guesses and try to guess the word.
 
+## Contributors
+
+- Nimisha Bhagat - https://github.com/nimisha218
