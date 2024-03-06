@@ -1,6 +1,6 @@
 # Wordle
 
-Wordle is a simple iOS game where players guess a word by selecting letters from a virtual keyboard and receive feedback on their guesses.
+Welcome to Wordle - developed using the power of Swift and Xcode, Wordle is a word-guessing game that will text your skills and keep you entertained. With its sleek design and intuitive interface, Wordle offers a seamless gaming experience on your iOS device. 
 
 ## Features
 
