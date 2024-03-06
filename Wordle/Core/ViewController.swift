@@ -9,7 +9,6 @@ import UIKit
 
 class ViewController: UIViewController {
     
-//    let answer = "after"
     var answers = [
         "plate", "eerie", "earth", "horse", "bread", "prawn"
     ]
@@ -26,8 +25,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        answer = answers.randomElement() ?? "after"
-        answer = "earth"
+        answer = answers.randomElement() ?? "fruit"
         view.backgroundColor = .systemGray6
         addChildren()
     }
